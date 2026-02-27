@@ -9,7 +9,7 @@ I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as **
 
 ---
 
-### 🚀 Featured Project
+**🚀 Featured Project:**
 
 #### [🍱 BentoMenu](https://bentomenu.app)
 **A curated design-to-code library for modern bento grid layouts.**
@@ -29,16 +29,16 @@ I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as **
 
 **Tech Stack:**
 
-**Languages:** JavaScript, TypeScript, HTML, CSS, Ruby  
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Ruby  
 
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, ShadCN, MaterialUI, Bootstrap
+- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion, ShadCN, MaterialUI, Bootstrap
 
-**Backend:** Ruby on Rails, Node.js, Express.js  
+- **Backend:** Ruby on Rails, Node.js, Express.js  
 
-**State & Data:** React Query, Zustand, React Router, React Hook Form  
+- **State & Data:** React Query, Zustand, React Router, React Hook Form  
 
-**Database:** PostgreSQL, MySQL, Supabase  
+- **Database:** PostgreSQL, MySQL, Supabase  
 
-**Tools:** Git, Vite, Figma, Docker, Postman, VS Code, Vercel, Netlify, Render
+- **Tools:** Git, Vite, Figma, Docker, Postman, VS Code, Vercel, Netlify, Render
 
-**Testing:** Jest, RSpec, Minitest
+- **Testing:** Jest, RSpec, Minitest
