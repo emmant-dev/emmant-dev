@@ -9,6 +9,16 @@ I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as **
 
 ---
 
+### 🚀 Featured Project
+
+#### [🍱 BentoMenu](https://bentomenu.app)
+**A curated design-to-code library for modern bento grid layouts.**
+- **Concept:** Think of it as a restaurant menu for UI. Browse designer-grade layouts, pick your favorite, and "serve" it in your project.
+- **Utility:** Instantly copy production-ready JSX + Tailwind code for complex grid structures—eliminating the need for tedious manual drafting.
+- **Stack:** Next.js, TypeScript, Tailwind CSS.
+
+---
+
 **Some projects I've built:**
 
 - [**Chatspace**](https://github.com/emmant-web/chatspace) - Real-time chat app with room creation, authentication, and live messaging using Supabase and React Query
