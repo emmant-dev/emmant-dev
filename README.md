@@ -21,9 +21,9 @@ I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as **
 
 **Some projects I've built:**
 
-- [**Chatspace**](https://github.com/emmant-web/chatspace) - Real-time chat app with room creation, authentication, and live messaging using Supabase and React Query
-- [**OFW Companion App**](https://github.com/emmant-web/ofw-companion-app) - Rails app helping overseas workers track packages, convert currencies, and find remittance centers via Google Maps integration  
-- [**Trading App**](https://github.com/emmant-web/trading-app-ruby-v2) - Stock trading simulator with role-based access, admin approval workflow, and portfolio management
+- [**Chatspace**](https://github.com/emmant-dev/chatspace) - Real-time chat app with room creation, authentication, and live messaging using Supabase and React Query
+- [**OFW Companion App**](https://github.com/emmant-dev/ofw-companion-app) - Rails app helping overseas workers track packages, convert currencies, and find remittance centers via Google Maps integration  
+- [**Trading App**](https://github.com/emmant-dev/trading-app-ruby-v2) - Stock trading simulator with role-based access, admin approval workflow, and portfolio management
 
 ---
 
