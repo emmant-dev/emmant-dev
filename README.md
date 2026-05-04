@@ -2,11 +2,6 @@
 
 I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as **ReactRamen on Reddit and X**), a frontend developer from the Philippines who enjoys building practical web applications. I focus on creating clean interfaces and smooth user experiences with modern web technologies.
 
-**Currently working with:**
-- React, TypeScript, Next.js
-- Tailwind CSS, Framer Motion
-- State management with Zustand and React Query
-
 ---
 
 **🚀 Featured Project:**
