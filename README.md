@@ -32,8 +32,8 @@ I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/), a frontend devel
 
 - **State & Data:** React Query, Zustand, React Router, React Hook Form  
 
-- **Database:** PostgreSQL, MySQL, Supabase  
+- **Database:** PostgreSQL, MySQL, Supabase, MongoDB
 
-- **Tools:** Git, Vite, Figma, Docker, Postman, VS Code, Vercel, Netlify, Render
+- **Tools:** Git, Vite, Figma, Docker, Postman, VS Code, Vercel, Netlify, Render, Codex
 
 - **Testing:** Jest, RSpec, Minitest
